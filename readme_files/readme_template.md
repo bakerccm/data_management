@@ -4,81 +4,114 @@ https://cornell.app.box.com/v/ReadmeTemplate
 
 # DATASET
 
-This readme file accompanies <DATASET>
+This readme file accompanies [DATASET]
 
-Date created: <YYYY-MM-DD>
-Author: <NAME>
-Contact: <CONTACT DETAILS>
+    Date created: [YYYY-MM-DD]
+    Author: [NAME]
+    Contact: [CONTACT DETAILS]
 
-Date last updated: <YYYY-MM-DD>
-Author: <NAME>
-Contact: <CONTACT DETAILS>
+    Date last updated: [YYYY-MM-DD]
+    Author: [NAME]
+    Contact: [CONTACT DETAILS]
+
+Note: dates in this file are provided as YYYY-MM-DD. [Amend if necessary, or use YYYY-MMM-DD, etc, to eliminate ambiguity]
 
 ## GENERAL INFORMATION
 
-1. Title of Dataset:
+1. Title of dataset:
 
-2. Author Information
-    A. Principal Investigator Contact Information
+2. Contact information
+
+    i.e. who to contact about dataset details, use/reuse etc
+
+    List multiple people if necessary.
+
         Name:
-        Institution:
+        Position:
+        Organization:
         Address:
         Email:
 
-    B. Associate or Co-investigator Contact Information
-        Name:
-        Institution:
-        Address:
-        Email:
+3. Funding sources
 
-    C. Alternate Contact Information
-        Name:
-        Institution:
-        Address:
-        Email:
-
-3. Date of data collection (single date, range, approximate date) <suggested format YYYY-MM-DD>:
-
-4. Geographic location of data collection <latitude, longiute, or city/region, State, Country, as appropriate>:
-
-5. Information about funding sources that supported the collection of the data:
-
+    - Provide project or funding details here if appropriate
 
 ## SHARING/ACCESS INFORMATION
 
-1. Licenses/restrictions placed on the data:
+1. Licenses/restrictions placed on the data
 
-2. Links to publications that cite or use the data:
+2. Links to publications that cite or use the data
 
-3. Links to other publicly accessible locations of the data:
+3. Links to other publicly accessible locations of the data
 
-4. Links/relationships to ancillary data sets:
+4. Links/relationships to ancillary data sets
 
-5. Was data derived from another source? yes/no
-    A. If yes, list source(s):
+5. Was data derived from another source?
+
+    - If yes, list source(s)
 
 6. Recommended citation for this dataset:
 
+    - Citation
 
 ## DATA & FILE OVERVIEW
 
-1. File List:
-<list all files (or folders, as appropriate for dataset organization) contained in the dataset, with a brief description>
+1. File list
 
-2. Relationship between files, if important:
+    [list all files (and/or folders) contained in the dataset, with a brief description]
 
-3. Additional related data collected that was not included in the current data package:
+2. Relationship between files, if important
+
+3. Additional related data collected that was not included in the current data package
 
 4. Are there multiple versions of the dataset? yes/no
-    A. If yes, name of file(s) that was updated:
-        i. Why was the file updated?
-        ii. When was the file updated?
 
+    Provide details (file name or version number? in version control? when and why updated?)
 
-## METHODOLOGICAL INFORMATION
+## SAMPLING INFORMATION
 
-1. Description of methods used for collection/generation of data:
-<Include links or references to publications or other documentation containing experimental design or protocols used in data collection>
+1. Sampling dates
+
+    - Date(s) of sample collection and/or field measurements
+
+    - Provide sample-level date information in tabular form and note that file here.
+
+2. Geographic location of sample collection
+
+    - Describe general locations [e.g. latitude, longitude, or city/region, state, country]
+
+    - Provide sample-level location information in tabular form and note that file here.
+
+3. Description of methods used for collection/generation of data
+
+    - **Especially sampling design** features necessary to understand and analyze the dataset later the dataset
+    - Include links or references to publications or protocols
+
+## LIBRARY PREPARATION AND SEQUENCING
+
+1. Sequencing dates
+
+    - Date(s) of sequencing library preparation
+    - Date(s) of sequencing
+
+    - Provide sample-level date information in tabular form if necessary and note that file here.
+
+2. Sequencing service
+
+    Who prepared libraries and sequenced them?
+
+3. Methods
+
+    - PCR details? including primers
+    - Library prep details
+    - Were samples excluded at any point? Why?
+
+4. Sequencing technology
+
+    - Techonology/chemistry
+    - Single run? Different runs?
+
+## DATA PROCESSING
 
 2. Methods for processing the data:
 <describe how the submitted data were generated from the raw or collected data>
